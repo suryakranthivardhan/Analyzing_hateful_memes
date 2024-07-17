@@ -1,4 +1,4 @@
-# Hateful Memes Analysis Project
+# Hateful Meme Analysis Project
 
 This project focuses on analyzing hateful memes through various computer vision and natural language processing tasks. The project is divided into four main tasks: object detection, caption impact assessment, classification, and toxicity prediction. The code for each task is implemented in google colab. 
 
