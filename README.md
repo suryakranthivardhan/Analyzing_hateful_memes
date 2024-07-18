@@ -6,7 +6,7 @@ This project focuses on analyzing hateful memes through various computer vision 
 
 1. **Object Detection** (`object_detection.ipynb`): Detect objects in the images and print the frequency of each detected object.To view the task [click here](https://github.com/suryakranthivardhan/Analyzing_hateful_memes/blob/main/object_detection.ipynb)
 2. **Caption Impact Assessment** (`Caption_impact.ipynb`): Assess the effect of overlaid captions on the accuracy and effectiveness of object detection.To view the task [click here](https://github.com/suryakranthivardhan/Analyzing_hateful_memes/blob/main/Caption_impact.ipynb)
-3. **Classification** (`classification.ipynb`): Classify memes into five sentiment labels: positive, very positive, neutral, negative, and very negative.To view the task [click here] (https://github.com/suryakranthivardhan/Analyzing_hateful_memes/blob/main/classification.ipynb)
+3. **Classification** (`classification.ipynb`): Classify memes into five sentiment labels: positive, very positive, neutral, negative, and very negative.To view the task [click here](https://github.com/suryakranthivardhan/Analyzing_hateful_memes/blob/main/classification.ipynb)
 4. **Bonus Task - Toxicity Prediction** (`bonus_task.ipynb`): Predict whether a meme is toxic or non-toxic by performing NLTK sentiment analysis on the labeled memes dataset.
 
 ## Dataset
