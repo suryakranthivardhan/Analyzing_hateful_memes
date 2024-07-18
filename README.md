@@ -25,3 +25,8 @@ To get started with this project in google colab, follow the steps below:
 2. **Unzip the dataset**:We need to unzip the dataset to read in colab.
       ```python
    !unzip /content/drive/MyDrive/dataset.zip #enter the path of dataset
+3. **Install necessary libraries**
+     ```python
+   !pip install nltk
+   !apt install tesseract-ocr
+   !pip install pytesseract
